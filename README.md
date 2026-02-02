@@ -15,4 +15,4 @@ Ce rapport Power BI présente une analyse détaillée des résultats du baccalau
 
 ## 📷 Aperçu du Dashboard
 ![Capture du Dashboard](./votre-image.png) 
-*(Remplacez "votre-image.png" par le nom exact de votre capture d'écran présente dans le dossier)*
+
